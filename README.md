@@ -1,8 +1,14 @@
 ### Hi, I'm Lexi! 🥳
-I'm currently a senior at [UIUC](https://cs.illinois.edu/) studying [Computer Sciencce + Crop Sciences](https://cs.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences). My most recent experience was collaborating with the eCommerce team at [HNI Corporation](https://www.hnicorp.com/) as an Information Technology Intern. I enjoy full stack web development, algorithms, tutoring in programming and physics, and singing.
+I'm a senior at [UIUC](https://cs.illinois.edu/) studying [Computer Sciencce + Crop Sciences](https://cs.illinois.edu/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences). Previously, I worked as an Information Technology Intern at [HNI Corporation](https://www.hnicorp.com/).
+
+### Things I enjoy
+👩🏼‍💻 full-stack web development  
+📖 algorithms   
+🥸 tutoring in programming and physics  
+🎤 singing
 
 ### Reach out!
-Please feel free to reach out to me at <ai10@illinois.edu> if you think I would be a good fit for a Software Engineering position you are looking to fill based on my experiences and interests. Most of my projects are in private repositories – email me if you'd like to take a look!
+I'm currently looking for full-time Software Engineering opportunities. Please feel free to reach out <ai10@illinois.edu>. Most of my projects are in private repositories – email me if you'd like to take a look!
 
 <!--
 **lexiippolito/lexiippolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
